@@ -95,4 +95,4 @@ Python Developer | AIML Enthusiast | Open Source Learner
 GitHub:
 https://github.com/jahnvi8806
 ## live Demo
-https://property-value-estimator-gokxfc5ae82j3vxhwg39yq.streamlit.app/
+[live demo](https://property-value-estimator-gokxfc5ae82j3vxhwg39yq.streamlit.app/)
